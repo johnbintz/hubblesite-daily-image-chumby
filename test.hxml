@@ -1,0 +1,4 @@
+-main HubbleSiteDailyImageChumbyTestRunner
+-neko HubbleSiteDailyImageChumbyTestRunner.n
+-cp classes
+-cp test
