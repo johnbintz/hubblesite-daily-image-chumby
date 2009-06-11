@@ -2,6 +2,9 @@ import flash.MovieClip;
 import flash.TextField;
 import haxe.Timer;
 
+/**
+ * A Chumby widget for showing the HubbleSite Image of the Day.
+ */
 class HubbleSiteDailyImageChumby {
   private static var imageHolder:MovieClip;
   private static var logoHolder:MovieClip;
