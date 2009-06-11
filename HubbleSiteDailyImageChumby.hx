@@ -153,11 +153,6 @@ class HubbleSiteDailyImageChumby {
     }            
   }
   
-  public static function fadeIn(target:MovieClip, c:Void->Void) {
-    fade(target, c, false);
-  }
-  
-  public static function fadeOut(target:MovieClip, c:Void->Void) {
-    fade(target, c, true); 
-  }
+  public static function fadeIn(target:MovieClip, c:Void->Void) { fade(target, c, false); }
+  public static function fadeOut(target:MovieClip, c:Void->Void) { fade(target, c, true); }
 }
