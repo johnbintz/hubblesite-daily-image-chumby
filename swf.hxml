@@ -1,5 +1,5 @@
 -main HubbleSiteDailyImageChumby
 -swf chumby.swf
 -D network-sandbox
--sef-version 7
+-swf-version 7
 -swf-header 320:240:12:000000
